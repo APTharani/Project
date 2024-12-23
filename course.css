@@ -1,0 +1,33 @@
+.class1{
+    color:darkorange;
+    background-color: aqua;
+    margin-top: 2px; 
+}
+th{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+    font-weight: bolder;
+}
+td p{
+    font-size: 20px;
+    align-items: center;
+    color: darkcyan;
+}
+td img{
+    margin: 2px;
+    padding-left:10px;
+    border-radius: 50px;
+    border: 2px solid black;
+  
+    
+}
+body{
+    background-color: aqua;
+}
+ a{
+    font-size: 25px;
+    color: red;
+    padding-right: 18px;
+    
+
+}
